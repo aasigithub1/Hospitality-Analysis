@@ -2,7 +2,6 @@
 
 # AtliQ Grand Hospitality Data Analysis Project
 
-<img src="fmcg-fast-moving-consumer-goods-acronym-quickly-vector-29140672.jpg" alt="Project Banner" width="1000" height="400">
 
 ## Project Overview
 
